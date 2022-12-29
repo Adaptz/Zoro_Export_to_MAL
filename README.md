@@ -5,9 +5,9 @@ This program converts the "export.xml" file from the Zoro.to anime website into 
 ## **Disclaimer:**
 
 - The converted MyAnimeList.xml does not have the info for the amount of watched episodes, so by default it will be set to 0.
-  - This only matters for anime in the watching, on-hold, and dropped categories since the completed and plan to watch categories
+- This only matters for anime in the watching, on-hold, and dropped categories since the completed and plan to watch categories
     are still valid despite being set at 0.
-  - Please be aware if you already have any anime on the Zoro export on your MyAnimeList
+- Please be aware if you already have any anime on the Zoro export on your MyAnimeList
     they will be automatically set to 0 after importing if you skip the step of entering them in manually.
 
 ## How to use (Replit)
