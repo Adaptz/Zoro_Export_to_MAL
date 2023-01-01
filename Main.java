@@ -17,7 +17,7 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.w3c.dom.Text;
 
-public class zoroToMalConvert {
+public class Main {
     public static void main(String[] args) throws Exception {
         // creates a File object representing the "export.xml" file
         File xmlFile = new File("export.xml");
